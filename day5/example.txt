@@ -1,0 +1,2 @@
+This is Day 5 of the Python challenge.
+Learning to work with files is essential.
