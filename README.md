@@ -35,27 +35,30 @@ Hi, I’m Pooh! This is my personal 30-day Python coding challenge to improve my
 ```python
 evens = [x for x in range(10) if x % 2 == 0]
 
-### 🧠 Day 2: Strings, Functions, and Testing
-String slicing, formatting, and file writing
+---
 
-Function scopes: global, local
+## 📅 Day 2: Strings, Functions, and Basics
+- String manipulation (slicing, replace, f-strings)
+- Functions and variable scope
+- Writing/reading files with `open()`
+- Using dictionaries and sets
+- Basic testing and debugging with `print()` and `==`
 
-Simple test cases with == comparisons
+📄 Code: `day2_basics.py`  
+📄 Output file: `hello.txt`
 
-### 🧠 Day 3: Modules & Error Handling
-Created reusable functions in utils.py
+---
 
-Used import to keep code clean
+## 📅 Day 3: Modules & Error Handling
 
-Handled exceptions using try, except, and finally
+- Created a custom module `utils.py`
+- Used `import` and `from ... import ...`
+- Wrote helper functions (`safe_divide`, `capitalize_words`)
+- Practiced `try`, `except`, and `finally` blocks
 
-🚀 Next Steps
-Learn OOP: classes, objects, and methods (Day 4)
-
-Practice with real projects and GitHub
-
-🚀 Next Steps
-Learn OOP: classes, objects, and methods (Day 4)
+📄 Code:
+- `utils.py` (reusable module)
+- `day3_main.py` (main script)
 
 📌 Repo Info
 Author: poohsted
