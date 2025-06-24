@@ -6,8 +6,6 @@ Hi, This is my personal 30-day Python coding challenge to improve my skills thro
 
 ## 📅 Progress
 
-## 📅 Progress
-
 | Day | Topic                                  | Status   |
 |-----|----------------------------------------|----------|
 | 1   | List Comprehensions                    | ✅ Done  |
